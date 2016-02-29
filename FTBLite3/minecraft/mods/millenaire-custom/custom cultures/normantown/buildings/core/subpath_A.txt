@@ -1,0 +1,1 @@
+type:subbuilding;priority:1;french:sentier;around:0;startLevel:-1;orientation:1;width:100;length:100

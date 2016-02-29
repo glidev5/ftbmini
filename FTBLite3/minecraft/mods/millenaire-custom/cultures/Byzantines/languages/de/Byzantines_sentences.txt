@@ -1,0 +1,35 @@
+villager.greeting=Γεια σας, $name! / Hello, $name!
+villager.greeting=Όμορφη μέρα, έτσι δεν είναι? / Beautiful day, isn't it?
+villager.greeting=Θα βροχή. Σύντομα.  / It will rain. Soon.
+villager.greeting=Καμία πόλη στον κόσμο μπορούν να συγκριθούν με την Κωνσταντινούπολη. / No city in the world can compare with Constantinople.
+villager.greeting=Δεν είμαστε Έλληνες, είμαστε Ρωμαίοι. / We are no Greeks, we are Romans.
+villager.greeting=Είμαστε Βυζαντινοί είναι το τελευταίο αληθινό Ρωμαίους. Bask στη δόξα του πολιτισμού μας. / We Byzantines are the last true Romans. Bask in the glory of our civilisation.
+villager.GoPlay=Νομίζω ότι θα πάω να παίξουν έξω. / I think i'll go play outside.
+villager.gorest=Είμαι κουρασμένος. Θα πάω σπίτι να κοιμηθώ. / I'm tired. I'll go home to sleep.
+villager.makeBread=Το ψωμί είναι ήδη μυρωδιά καλό... / The bread is already smelling good...
+villager.gorest=Νομίζω ότι θα πάω για ύπνο. / I think i'll go to sleep.
+villager.BecomeAdult=Τέλος θα γίνει μια ρωμαϊκή πολίτη! / Finally I become a roman civic!
+villager.calltoarms=Η Ρωμαϊκή Αυτοκρατορία δέχεται επίθεση! Για τα όπλα! / The Roman Empire is attacked! To the arms!
+
+artisan_byzantine.construction=Στην πραγματικότητα είμαι ένας καλλιτέχνης όταν υλοποίηση των εν λόγω επεξεργασία δομές. / Actually I'm an artist when I build such elaborate structures.
+artisan_byzantine.construction=Η αρχιτεκτονική μας δεν μπορεί να συγκριθεί με κανένα άλλο. / Our archtitecture can't be compared with any other.
+artisan_byzantine.greeting=Η ζωή μου είναι πολύ καλύτερη από τη ζωή των άλλων ανθρώπων εδώ. / My life is much better than the life of other people here.
+artisan_byzantine.makePainting=Ρωμαϊκής τέχνης μας είναι η καλύτερη στον κόσμο. / Our Roman art is the best in the world.
+
+
+wife_byzantine.greeting=Το καθήκον μας είναι να ελέγχει τους άνδρες μας. / Our task is to control our men.
+wife_byzantine.greeting=Ως γυναίκες που δεν υπάρχουν πολλά να σας επιτρέπεται η εδώ... / As a women you there isn't much you are allowed to here...
+wife_byzantine.getGoodsHousehold=Ώρα να νοιάζονται για το νοικοκυριό. / Time to care about the household.
+wife_byzantine.DeliverGoodsHousehold=Πράγματα όπως αυτό είναι τα μόνα πράγματα που μπορώ να κάνω εδώ. / Things like this are the only things I can do here.
+wife_byzantine.GetHouseTHResources=Τέλος ο σύζυγός μου έχει παραδοθεί πόρους του, όπως του είπα. / Finally my husband has delivered his resources like I told him.
+wife_byzantine.cooking=Η κουζίνα του είναι πραγματικά διασκεδαστικό. / Cooking is really fun.
+
+miner_byzantine.Mining=Σε αυτή την δύναμη και την αντοχή δουλειά είναι απαραίτητη. Όμως, κανείς εδώ δεν έχει συνειδητοποιήσει ποτέ... / In this job strength and endurance is needed. But nobody here has ever realized it...
+miner_byzantine.Mining=Είμαι περήφανος που Ρωμαϊκή Civic και εργάζονται για την αυτοκρατορία δόξα μας, ακόμη και σε αυτό το δύσκολο έργο. / I'm proud to be Roman Civic and working for our glory Empire, even in this hard job.
+
+patriarch_byzantine.makebooks=Τα βιβλία μου είναι μερικά από τα καλύτερα χειρόγραφα εκεί έξω. / My books are some of the best manuscripts out there.
+
+lumberman_byzantine.BringBackResourcesHome=Η γυναίκα μου πρέπει να είναι περήφανοι γιατί όλα τα ξύλα που έχω πήρα. / My Wife have to be proud because of all the wood I have got.
+lumberman_byzantine.ChopTrees=Κάθε δομή ανάγκες ξύλο, και να πάρει αυτή είναι η δουλειά μου! / Every structure of us needs wood, and getting it is my job!
+lumberman_byzantine.GatherGoods=Νίκαια δενδρύλλιο εκεί. / Nice sapling over there.
+lumberman_byzantine.PlantSaplings=Σύντομα αυτό θα είναι ένα μεγάλο, επιβλητικό δέντρο! Και θα το μειώσουν. / Soon this will be a big, majestic tree! And I'll cut it down.

@@ -1,0 +1,36 @@
+villager.greeting=Xaire, $name! / Hello, $name!
+villager.greeting= / Beautiful day, isn't it?
+villager.greeting= / It will rain. Soon.
+villager.greeting=/ No city in the world can compare with Constantinople.
+villager.greeting=/ We are no Greeks, we are Romans.
+villager.greeting=/ We Byzantines are the last true Romans. Bask in the glory of our civilisation.
+villager.GoPlay=Je vais aller jouer dehors. / I think i'll go play outside.
+villager.gorest=/ I'm tired. I'll go home to sleep.
+villager.makeBread=/ The bread is already smelling good...
+villager.gorest= / I think i'll go to sleep.
+villager.BecomeAdult= / Finally I become a roman civic!
+villager.calltoarms= / The Roman Empire is attacked! To the arms!
+villager.GoPlay= / I think i'll go play outside.
+
+handwerker.construction= / Actually I'm an artist when I build such elaborated structures.
+handweker.construction= / Our archtitecture can't be compared with any other  .
+handwerker.greeting= / My life is much better than the life of other people here.
+handwerker.makeTapestry=Our Roman art is the best in the world.
+
+
+frau.greeting= / Our task is to controll our men.
+frau.greeting= / As a women you there isn't much you are allowed to here...
+frau.getGoodsHousehold= / Time to care about the household.
+frau.DeliverGoodsHousehold= / Such things like this are the only things i can do here.
+frau.GetHouseTHResources= / Finally my husband has delivered his resources like I told him.
+frau.cooking= / Cooking is really fun.
+
+bergarbeiter.Mining= / In this job strengh and endurance is needed. But nobody here has ever realized it...
+bergarbeiter.Mining= / I'm proud to be Roman Civic and working for this glory Empire, even in this hard job.
+
+priester.makebooks= / My books are some of the best manuscripts out there.
+
+holzfaeller.BringBackResourcesHome= / My Wife have to be proud because of all the wood I have got.
+holzfaeller.ChopTrees= / Every structure of us needs wood, and getting it is my job!
+holzfaeler.GatherGoods= / Nice sapling over there.
+holzfaeller.PlantSaplings= / Soon this will be a big, majestic tree! And I'll cut it down.

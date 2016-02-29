@@ -1,0 +1,8 @@
+name:Mono Paratiritio
+weight:5
+radius:10
+biome:taiga
+biome:tundra
+
+//starting buildings:
+centre:pinetower

@@ -1,0 +1,2 @@
+type:subbuilding;priority:500;french:Presbytère;around:0;startLevel:-1;orientation:1;male:ml_Priest;width:100;length:100
+priority:10;

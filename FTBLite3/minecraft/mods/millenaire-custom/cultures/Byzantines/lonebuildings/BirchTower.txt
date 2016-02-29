@@ -1,0 +1,8 @@
+name:Mono Paratiritio
+weight:5
+radius:10
+biome:forest
+biome:planes
+
+//starting buildings:
+centre:birchtower

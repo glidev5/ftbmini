@@ -1,0 +1,1 @@
+type:subbuilding;priority:10;french:Puit;english:Well;around:0;startLevel:-12;orientation:1;width:100;length:100

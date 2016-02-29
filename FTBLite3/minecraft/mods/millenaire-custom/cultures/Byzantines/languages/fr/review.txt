@@ -1,0 +1,19 @@
+Byzantines_buildings.txt
+
+placebyzantine_A0=Mairie (too modern), Maison du village (too basic ?)...
+
+Byzantines_reputation.txt
+
+What mean "Xaire" ? have not translate it.
+Have you anything to trade with you? ---> to trade with us ? 
+
+Byzantines_sentences.txt
+villager.greeting=Bask in the glory of our civilisation (Bask have no really translation in french, so i wrote : In the light of the glory of our civilisation) : Dans la lumière de la gloire de notre civilisation.
+villager.GoPlay (is written twice)
+wife_byzantine.greeting=As a women you there isn't much you are allowed to here... (Not really understand this : i have translate : "As a women, i can tell you that you are not allowed to be there."
+
+Byzantines_strings.txt
+You sometimes use CAPS, and sometimes not. Other culture use them, so i used them too even if you don't use them. Supposed you will correct it in /de /en
+for Rich woman, i translate it in "Bourgeoise", you can change this for "Femme riche"
+in the indi official, trader is translated as "Marchant" but it is "MarchanD" in fact, if you want to tell them.
+Soldier is translated as "Soldat". But i have translate the "player soldier" as Legionnaire ("Légionnaire"). You can of course write it back to "Soldat" too if you wan't the exact same name for both. (or "Légionnaire" for both). Anyway, a roman soldier in french is known as a "Légionnaire".

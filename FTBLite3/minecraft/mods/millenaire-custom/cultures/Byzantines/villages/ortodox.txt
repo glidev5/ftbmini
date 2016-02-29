@@ -1,0 +1,58 @@
+name:Chorio orthodoxo
+weight:0
+spawnBlock:19
+hillQualifier:goal=stous lofous
+lavaQualifier:to hefaisto
+lakeQualifier:limne
+biome:plains
+biome:river
+
+//starting buildings:
+centre:churchbyzantine
+start:groveoakbyzantine
+start:lumberbyzantine
+start:grovebirchbyzantine
+start:artisanbyzantine
+start:quarrybyzantine
+
+player:villa urbana
+
+//to be built in priority
+core:farmbyzantine
+core:bakerybyzantine
+core:sheepbyzantine
+core:fisherbyzantine
+
+//to be built after the core ones
+secondary:lumberbyzantine
+secondary:quarrybyzantine
+secondary:basilkabyzantine
+
+never:testfarm
+never:presbyterybyzantine
+
+//Selling prices:
+sellingPrice:bread,7
+sellingPrice:cider,60
+sellingPrice:calva,3/32
+sellingPrice:tripes,1/48
+sellingPrice:boudin,50
+sellingPrice:egg,18
+sellingPrice:wool_white,8
+sellingPrice:porkchops,18
+
+//Buying prices:
+buyingPrice:cobblestone,2
+buyingPrice:stone,4
+buyingPrice:glass,4
+buyingPrice:bread,5
+buyingPrice:cider,50
+buyingPrice:tripes,1/32
+buyingPrice:boudin,40
+buyingPrice:wool_white,7
+
+buyingPrice:normanBroadsword,1/0/10
+buyingPrice:normanPickaxe,10/10
+buyingPrice:normanAxe,10/10
+buyingPrice:normanShovel,10/10
+buyingPrice:normanHoe,10/10

@@ -1,0 +1,3 @@
+type:subbuilding;priority:5000;french:Armurerie;around:0;startLevel:-1;orientation:1;male:ml_Smith;female:ml_Wife;width:100;length:100;shop:armoury
+priority:500;
+priority:10

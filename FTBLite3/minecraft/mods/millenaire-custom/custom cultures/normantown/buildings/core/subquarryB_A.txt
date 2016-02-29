@@ -1,0 +1,3 @@
+type:subbuilding;priority:5000;french:Carrière;around:0;startLevel:-8;orientation:1;male:ml_Miner;female:ml_Wife;width:100;length:100
+priority:10000;
+priority:15;

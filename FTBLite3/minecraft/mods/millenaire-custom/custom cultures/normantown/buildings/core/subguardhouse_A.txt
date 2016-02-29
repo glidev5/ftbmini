@@ -1,0 +1,2 @@
+type:subbuilding;priority:500;french:Maison du guarde;around:0;startLevel:-1;orientation:1;male:ml_Guard;female:ml_Wife;width:100;length:100
+priority:10;

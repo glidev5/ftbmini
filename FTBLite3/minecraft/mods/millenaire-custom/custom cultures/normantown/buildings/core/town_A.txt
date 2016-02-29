@@ -1,0 +1,13 @@
+max:0;priority:2000;french:Manoir;english:Manor;around:0;startLevel:-9;orientation:1;signs:5,3,1,2,4,6,8,7,0;shop:townhall;length:100;width:100;male:ml_Knight;female:ml_Lady;startingsubbuilding:subgroveA;startingsubbuilding:sublumbermanhut;startingsubbuilding:subfarmA;startingsubbuilding:subquarryA
+french:Péage;english:Plaza;startLevel:-2;priority:10000;subbuilding:subbakery;subbuilding:subsmallhouse;subbuilding:subwatchtower
+french:Manoir;english:Manor;startLevel:-9;priority:100;subbuilding:subcarpenterhouse;subbuilding:subtavern
+french:Manoir;english:Manor;startLevel:-1;subbuilding:subcattlefarm;subbuilding:subsheepchickenfarm
+french:Péage;english:Plaza;startLevel:-2;subbuilding:subforge;subbuilding:subfarmB;subbuilding:subarmoury
+french:Manoir;english:Manor;startLevel:-1;subbuilding:subquarryB
+french:Manoir;english:Manor;startLevel:-1;subbuilding:subgroveB
+french:Péage;english:Plaza;startLevel:-2;subbuilding:subpresbytery;subbuilding:subguardhouse
+french:Manoir;english:Manor;startLevel:-1;subbuilding:subpigfarm;subbuilding:subinn
+french:Manoir;english:Manor;startLevel:-9;subbuilding:subarchives;subbuilding:submarket;subbuilding:subchurch
+french:Manoir;english:Manor;startLevel:-2;priority:10;subbuilding:subwell;subbuilding:subfountain
+french:Péage;english:Plaza;startLevel:-2;priority:2;subbuilding:subpath
+french:Péage;english:Plaza;

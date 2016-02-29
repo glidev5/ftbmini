@@ -1,0 +1,11 @@
+native:nameinvillagelangue;name_english:inenglish;name_french:enfrancais;around:4;startLevel:-1;orientation:3;width:43;length:41
+startLevel:-1
+startLevel:-1
+startLevel:-1
+startLevel:-1
+startLevel:-1
+startLevel:-1
+startLevel:-1
+startLevel:-1
+startLevel:-1
+

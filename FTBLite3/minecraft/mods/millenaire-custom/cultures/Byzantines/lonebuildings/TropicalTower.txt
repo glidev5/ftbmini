@@ -1,0 +1,9 @@
+name:Mono Paratiritio
+weight:5
+radius:10
+biome:desert
+biome:swampland
+biome:jungle
+
+//starting buildings:
+centre:jungletower

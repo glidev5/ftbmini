@@ -1,0 +1,1 @@
+type:subbuilding;priority:5;french:Ferme;startLevel:-1;orientation:1;male:ml_Farmer;female:ml_Wife;width:100;length:100

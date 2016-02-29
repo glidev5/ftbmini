@@ -1,0 +1,27 @@
+culture.Byzantines=Byzantinische
+
+//Byzantiner:
+villager.teenagerMale=Jugendlicher
+villager.teenagerFemale=Jugendliche
+villager.boy_byzantine=Junge
+villager.girl_byzantine=Mädchen
+villager.farmiller_byzantine=Müller
+villager.farmiller_wife_byzantine=Müllerin
+villager.wife_byzantine=Dorfbewohnerin
+villager.miner_byzantine=Bergarbeiter
+villager.artisan_byzantine=Handwerker
+villager.patriarch_byzantine=Patriarch
+villager.lumberman_byzantine=Holzfäller
+villager.shepherd_byzantine=Hirte
+villager.shepherd_female_byzantine=Hirtin
+villager.fisherman_byzantine=Fischer
+villager.baron_byzantine=Baron
+villager.richwife_byzantine=Reiche Dorfbewohnerin
+villager.merchant_norman=Normannischer Händler
+villager.merchant_hindi=Indischer Händler
+villager.merchant_mayan=Mayanischer Händler
+villager.merchant_japanese=Japanischer Händler
+villager.centurio_byzantine=Centurio
+villager.soldier_byzantine=Soldat
+villager.playersoldier_byzantine=Soldat
+villager.smith_byzantine=Schmied

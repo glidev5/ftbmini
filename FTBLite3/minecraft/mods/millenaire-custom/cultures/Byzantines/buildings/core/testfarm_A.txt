@@ -1,0 +1,5 @@
+priority:5;native:Agrotaema;around:4;startLevel:-3;orientation:2;male:farmiller_byzantine;female:farmillerwife_byzantine;minDistance:50;width:12;length:16
+priority:10
+
+
+subbuilding:testfarm_A_backerei;

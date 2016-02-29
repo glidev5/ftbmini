@@ -1,0 +1,1 @@
+type:subbuilding;priority:10;french:Fontaine;english:Fountain;around:0;startLevel:-2;orientation:1;width:100;length:100

@@ -1,0 +1,15 @@
+quarrybyzantine_A0=Quarry
+grovebyzantine_A0=Grove
+testfarm_A0=Farm
+testfarm_A_backerei_A0=Mill
+churchbyzantine_A0=Church site
+churchbyzantine_A9=Orthodox Church
+churchbyzantine_A_altar_A0=Altar
+artisanbyzantine_A0=Artisans House
+workshopbyzantine_A0=Workshop
+fisherbyzantine_A=Fisher's hut
+tavernbyzantine_A=tavern
+sheepbyazantine_A=sheep farm
+villa urbana_A=estate
+farmbyzantine_A=farm
+stadt_A=city

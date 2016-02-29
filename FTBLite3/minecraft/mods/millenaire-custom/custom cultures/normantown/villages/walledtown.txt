@@ -1,0 +1,46 @@
+name:Walled Town
+weight:10
+biome:plains
+biome:swampland
+biome:forerst
+biome:desert
+radius:60
+carriesraid:true
+
+//starting buildings:
+centre:town
+
+//Selling prices:
+sellingPrice:bread,7
+sellingPrice:cider,60
+sellingPrice:calva,3/32
+sellingPrice:tripes,1/48
+sellingPrice:boudin,50
+sellingPrice:egg,18
+sellingPrice:wool_white,8
+sellingPrice:wool_black,15
+sellingPrice:porkchops,18
+sellingPrice:timberframe_plain,40
+sellingPrice:timberframe_cross,56
+
+//Buying prices:
+buyingPrice:cobblestone,2
+buyingPrice:stone,4
+buyingPrice:glass,4
+buyingPrice:bread,5
+buyingPrice:cider,50
+buyingPrice:tripes,1/32
+buyingPrice:boudin,40
+buyingPrice:wool_white,7
+buyingPrice:wool_gray,13
+buyingPrice:wool_lightgray,13
+buyingPrice:wool_black,13
+buyingPrice:wool_brown,16
+buyingPrice:timberframe_plain,36
+buyingPrice:timberframe_cross,52
+
+buyingPrice:normanBroadsword,1/0/10
+buyingPrice:normanPickaxe,10/10
+buyingPrice:normanAxe,10/10
+buyingPrice:normanShovel,10/10
+buyingPrice:normanHoe,10/10

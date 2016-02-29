@@ -1,0 +1,1 @@
+type:subbuilding;priority:500;french:Bosquet;startLevel:-2;orientation:1;width:100;length:100;tag:grove

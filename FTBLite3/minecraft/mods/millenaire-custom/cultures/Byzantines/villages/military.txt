@@ -1,0 +1,60 @@
+name:Chorio stratiotike 
+weight:10
+spawnBlock:19
+hillQualifier:stous lofous
+lavaQualifier:to hephaisto
+lakeQualifier:limne
+biome:plains
+biome:river
+
+//starting buildings:
+centre:fortbyzantine
+start:grovebirchbyzantine
+start:groveoakbyzantine
+start:lumberbyzantine
+start:lumberbyzantine
+start:artisanbyzantine
+start:sheepbyzantine
+
+player:villa urbana
+
+//to be built in priority
+core:forgebyzantine
+core:tavernbyzantine
+core:quarrybyzantine
+core:basilkabyzantine
+core:presbyterybyzantine
+
+//to be built after the core ones
+secondary:farmbyzantine
+secondary:farmbyzantine
+secondary:bakerybyzantine
+secondary:quarrybyzantine
+
+never:testfarm
+
+//Selling prices:
+sellingPrice:bread,7
+sellingPrice:cider,60
+sellingPrice:calva,3/32
+sellingPrice:tripes,1/48
+sellingPrice:boudin,50
+sellingPrice:egg,18
+sellingPrice:wool_white,8
+sellingPrice:porkchops,18
+
+//Buying prices:
+buyingPrice:cobblestone,2
+buyingPrice:stone,4
+buyingPrice:glass,4
+buyingPrice:bread,5
+buyingPrice:cider,50
+buyingPrice:tripes,1/32
+buyingPrice:boudin,40
+buyingPrice:wool_white,7
+
+buyingPrice:normanBroadsword,1/0/10
+buyingPrice:normanPickaxe,10/10
+buyingPrice:normanAxe,10/10
+buyingPrice:normanShovel,10/10
+buyingPrice:normanHoe,10/10

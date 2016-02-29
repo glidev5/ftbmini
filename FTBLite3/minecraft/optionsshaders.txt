@@ -1,0 +1,17 @@
+#Mon Feb 29 15:15:43 EST 2016
+TexMinFilB=0
+shadowResMul=0.25
+tweakBlockDamage=false
+TexMagFilB=0
+handDepthMul=0.5
+oldLighting=false
+shaderPack=KUDA-Shaders v6.1.13 BETA - Lite.zip
+TexMinFilS=0
+renderResMul=1.0
+TexMagFilS=0
+TexMinFilN=0
+shadowClipFrustrum=true
+TexMagFilN=0
+cloudShadow=false
+normalMapEnabled=false
+specularMapEnabled=false

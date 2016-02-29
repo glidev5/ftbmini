@@ -1,0 +1,6 @@
+max:1;priority:10000;french:Forge;around:4;startLevel:-1;orientation:0;male:ml_Smith;female:ml_Wife;shop:forge;width:6;length:11
+priority:5000;
+priority:3000;
+priority:1000;
+priority:500;
+priority:100;

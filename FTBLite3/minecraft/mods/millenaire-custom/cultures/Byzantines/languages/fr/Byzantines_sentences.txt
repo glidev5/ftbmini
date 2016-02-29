@@ -1,0 +1,36 @@
+villager.greeting=Xaire, $name! / Salut $name!
+villager.greeting=Omorfi mera, etsi den einai? / Belle journée, n'est-ce pas ?
+villager.greeting=Tha brochi. Syntoma.  / Il va pleuvoir. Bientôt.
+villager.greeting=Kamia poli ston kosmo boroun na synkrithoun me tin Konstantinoupoli/ Aucune ville au monde ne peut se comparer à Constantinople.
+villager.greeting=Den eimaste Ellines , eimaste Romaioi. / Nous ne sommes pas grecs, nous sommes Romains.
+villager.greeting=Eimaste Byzantinoi einai to teleutaio alaethino Romaious. Bask stae doxa tou politismou mas. / Nous les Byzantins sommes les derniers vrais romains. Dans la lumière de la gloire de notre civilisation.
+villager.GoPlay=Nomizo oti tha pao na paixoun exo. / Je pense que je vais aller jouer dehors.
+villager.gorest=Eimai kourasmenos. Tha pao spiti na koimitho. / Je suis fatigué. Je rentre dormir à la maison.
+villager.makeBread=To psomi einai aedae myrodia kalo. / Le pain sent déjà bien bon...
+villager.gorest=Nomizo oti tha pao gia Hypno . / Je pense que je vais rentré dormir.
+villager.BecomeAdult=Telos tha ginei mia romaiki politi! / Finalement je suis devenu un citoyen romain !
+villager.calltoarms=Ae Romaikae Autokratoria dexetai epithesi ! Gia ta opla ! / The Roman Empire is attacked! To the arms!
+villager.GoPlay=Nomizo oti tha pao na paixoun exo. / Je pense que je vais aller jouer dehors.
+
+artisan_byzantine.construction= Staen pragmatikotita eimai enas kallitechnis otan ylopoisi ton en logo epexergasia domes. / Je suis un artiste quand je crée de telles structures élaborées.
+artisan_byzantine.construction=Ae architektonikae aemas den borei na synkrithei me kamia alli. / Notre architecture ne peut être comparée à aucune autre.
+artisan_byzantine.greeting=Ae zoae mou einai poly kalyteri apo tae zoae ton allon anthropon edo. / Ma vie est bien meilleure que celle des autres ici.
+artisan_byzantine.makePainting=Romanikaes technaes aemas einai ae kalyterae ston kosmo. / L'art Roman est le meilleur au monde.
+
+
+wife_byzantine.greeting=To kathikon mas einai na elenchei tous andreous aemas. / Notre tâche est de contrôler nos hommes.
+wife_byzantine.greeting=Os gynaika sas , den yparchoun polla pou sas epitrepete na edo... / En tant que femme, je peut vous assurer que vous n'êtes pas autorisé à rester ici.
+wife_byzantine.getGoodsHousehold=Ora na noiazontai gia to noikokyrio. / Il est temps de s'occuper des travaux ménagers.
+wife_byzantine.DeliverGoodsHousehold=Tetoia pragmata opos afto einai ta mona pragmata pou boro na kano edo. / De telles choses, c'est tout ce qu'on me laisse faire ici.
+wife_byzantine.GetHouseTHResources=Telos o syzygos mou echei paradothei porous tou, opos tou eipa. / Finalement, mon mari à fini par livré ses marchandises comme je lui avais dit.
+wife_byzantine.cooking=Ae kouzina tou einai pragmatika diaskedastiko. / Cuisiner est vraiment chouette.
+
+miner_byzantine.Mining=Se afti tin dynami kai tin antochi douleia einai aparaititi. Omos, kaneis edo den echei syneiditopoiaesei pote... / Dans ce métier il faut de la force et de l'endurance. Mais personne ici ne l'a vraiment compris...
+miner_byzantine.Mining=Eimai perifanos pou Romaiki kai ergazontai gia afto to Empire doxa , akoma kai se afto to dyskolo ergo . / Je suis fier d'être un citoyen Romain et de travailler pour ce glorieux Empire, même dans ce dur métier.
+
+patriarch_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera cheirografa ekei exo. / Mes livres sont parmi les meilleurs manuscrits ici.
+
+lumberman_byzantine.BringBackResourcesHome=Ae gynaikos mou prepei na einai perifanoi giati ola ta xyla pou echo pira . / Ma femme va être fière de tout ce bois que je rammène.
+lumberman_byzantine.ChopTrees=Kathe domi tou xylou mas anankes , kai na parei afti einai ae douleia mou! / Tous nos bâtiments ont besoin de bois, et le trouver c'est mon métier !
+lumberman_byzantine.GatherGoods=Nikaia dendryllio ekei. / De jolis plants ici.
+lumberman_byzantine.PlantSaplings=Syntoma auto tha einai ana megalo, epivlitiko dentro ! Kai tha to meiosoun.  / Bientôt il y aura un grand et magnifique arbre ici. Et moi, je vais le couper.

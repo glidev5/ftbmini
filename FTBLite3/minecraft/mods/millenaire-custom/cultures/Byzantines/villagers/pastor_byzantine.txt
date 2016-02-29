@@ -1,0 +1,17 @@
+native_name=Pastoras
+gender=male
+familyNameList=greek_family_names
+firstNameList=greek_men_names
+tag=chief
+tag=religious
+
+texture=/mob/byzanz/papas0.png
+texture=/mob/byzanz/papas1.png
+texture=/mob/byzanz/papas2.png
+
+goal=gorest
+goal=gopray
+goal=goDrink
+
+
+baseAttackStrength=2

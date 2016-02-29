@@ -1,0 +1,9 @@
+max:0;priority:3000;french:Fort;around:3;startLevel:-1;orientation:0;tag:Patrol;length:32;width:32;signs:3,1,2,5,6,4,8,7,0;shop:townhall;male:ml_Guard
+priority:2000
+priority:1500;subbuilding:playerfort_A_lumbermanhut
+priority:1000;subbuilding:playerfort_A_righttower
+priority:800;subbuilding:playerfort_A_lefttower
+priority:600;subbuilding:playerfort_A_armoury
+priority:400
+priority:300
+priority:200

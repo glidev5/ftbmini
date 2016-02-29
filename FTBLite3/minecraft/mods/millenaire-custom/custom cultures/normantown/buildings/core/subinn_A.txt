@@ -1,0 +1,2 @@
+type:subbuilding;priority:5000;french:Auberge;around:0;startLevel:-1;orientation:1;width:100;length:100;tag:inn;signs:1,0;male:ml_Merchant;
+priority:10

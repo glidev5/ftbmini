@@ -1,0 +1,6 @@
+max:1;priority:250;french:Armurerie;around:4;startLevel:-1;orientation:0;male:ml_Smith;female:ml_Wife;width:7;length:13;shop:armoury
+priority:200
+priority:150
+priority:100
+priority:50
+priority:50

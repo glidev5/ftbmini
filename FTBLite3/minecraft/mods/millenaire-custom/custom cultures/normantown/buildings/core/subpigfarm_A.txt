@@ -1,0 +1,5 @@
+type:subbuilding;priority:5000;french:Elevage Porcin;around:0;startLevel:-1;orientation:1;male:ml_CattleFarmer;female:ml_Wife;width:100;length:100;shop:pigfarm;tag:pigs
+priority:50;
+
+tag:Oven
+priority:10

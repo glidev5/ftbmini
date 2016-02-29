@@ -1,0 +1,5 @@
+max:1;priority:20;french:Tour de guet;around:4;startLevel:-1;orientation:2;width:9;length:9;tag:Patrol;minDistance:80
+priority:220
+priority:140
+priority:70
+priority:20

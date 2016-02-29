@@ -1,0 +1,11 @@
+type:subbuilding;priority:10000;french:Tour de guet;english:Watch Tower;around:0;startLevel:-1;orientation:1;width:100;length:100;tag:Patrol
+french:Paroi Extérieure;english:Outer Wall;
+french:Paroi Extérieure;english:Outer Wall;
+french:Tour de guet;english:Watch Tower;priority:200;
+french:Tour de guet;english:Watch Tower;
+french:Tour de guet;english:Watch Tower;
+french:Paroi Extérieure;english:Outer Wall;priority:10;
+french:Paroi Extérieure;english:Outer Wall;
+french:Paroi Extérieure;english:Outer Wall;
+french:Paroi Extérieure;english:Outer Wall;
+french:Tour de guet;english:Watch Tower;

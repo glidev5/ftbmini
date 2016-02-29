@@ -1,0 +1,23 @@
+native_name=Indos epicheirimatias
+gender=male
+familyNameList=merchant_indian_family_names
+firstNameList=merchant_idian_first_names
+tag=visitor
+tag=foreignmerchant
+chanceWeight=10
+
+texture=/mob/hindi/merchant0.png
+texture=/mob/hindi/merchant1.png
+
+goal=gorest
+goal=gopray
+goal=godrink
+goal=keepStall
+
+startingInv=cactus,64
+startingInv=sandstone,128
+startingInv=brickmould,32
+startingInv=rice,64
+
+baseAttackStrength=5
+experiencegiven=3

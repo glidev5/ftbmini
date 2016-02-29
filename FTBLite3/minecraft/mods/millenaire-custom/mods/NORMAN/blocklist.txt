@@ -1,0 +1,4 @@
+cobblestone wall;139;0;true;56/56/56
+Moss Stone wall;139;1;true;56/82/56
+Anvil;145;0;false;20/20/20
+

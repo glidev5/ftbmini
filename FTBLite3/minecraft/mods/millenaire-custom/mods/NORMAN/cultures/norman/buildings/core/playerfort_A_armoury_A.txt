@@ -1,0 +1,4 @@
+type:subbuilding;priority:500;native:Armurerie;around:4;startLevel:-1;orientation:2;length:32;width:32;male:ml_Smith;female:ml_Wife;shop:armoury
+priority:350
+priority:250
+priority:50

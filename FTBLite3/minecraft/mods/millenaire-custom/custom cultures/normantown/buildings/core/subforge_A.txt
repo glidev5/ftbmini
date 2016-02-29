@@ -1,0 +1,2 @@
+type:subbuilding;priority:5000;french:Forge;around:0;startLevel:-1;orientation:1;male:ml_Smith;female:ml_Wife;shop:forge;width:100;length:100
+priority:20;

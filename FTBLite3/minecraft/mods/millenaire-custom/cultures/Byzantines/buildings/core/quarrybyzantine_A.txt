@@ -1,0 +1,1 @@
+max:2;priority:3000;native:Latomeio;around:4;startLevel:-4;orientation:0;male:miner_byzantine;female:wife_byzantine;width:15;length:19;minDistance:60

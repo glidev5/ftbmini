@@ -1,0 +1,4 @@
+type:subbuilding;priority:20000;french:Taverne;around:0;startLevel:-1;orientation:1;shop:tavern;tag:drinking;width:100;length:100;tag:cider
+priority:1000
+tag:Alembic
+priority:10

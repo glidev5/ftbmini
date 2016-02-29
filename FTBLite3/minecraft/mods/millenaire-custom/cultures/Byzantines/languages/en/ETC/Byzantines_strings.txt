@@ -1,0 +1,17 @@
+culture.Byzantines=Byzanz
+
+//Norman:
+villager.teenagerMale=Youth
+villager.teenagerFemale=Youth
+villager.boy_byzantine=Boy
+villager.girl_byzantine=Girl
+villager.farmiller_byzantine=Miller
+villager.farmiller_wife_byzantine=Millers Wife
+villager.wife_byzantine=Wife
+villager.miner_byzantine=Miner
+villager.artisan_byzantine=Artisan
+villager.patriarch_byzantine=Patriarch
+villager.lumberman_byzantine=Lumberman
+villager.shepherd_byzantine=shepherd
+villager.shepherd_female_byzantine=shepherd
+villager.fisherman_byzantine=fisher

@@ -1,0 +1,2 @@
+max:2;priority:5;native:Technites Spiti;around:4;startLevel:-1;orientation:3;male:artisan_byzantine;female:wife_byzantine;length:11;width:9
+priority:50

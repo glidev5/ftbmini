@@ -1,0 +1,3 @@
+max:0;priority:2000;native:Orthodoxe Ekklesia;around:5;startLevel:-1;orientation:3;length:20;width:20;signs:3,1,2,4,5,0,6,7;shop:townhall;male:patriarch_byzantine
+
+subbuilding:churchbyzantine_A_altar;

@@ -1,0 +1,7 @@
+max:2;priority:50000;french:Maison du charpentier;around:4;startLevel:-1;orientation:1;male:ml_Carpenter;female:ml_Wife;length:8;width:9
+priority:340
+priority:260
+priority:210
+priority:260
+priority:110
+priority:60

@@ -1,0 +1,9 @@
+//Put in this file any configuration from config.txt you want to change
+//That way they will not get overwritten when you update
+//For example, to play in French, put "language=fr" on a seperate line (without the quotes)
+//Bonus Code; Code to enable the bonus. Fetched from internet automatically if a connection is possible.
+bonus_code=
+
+//Max Children Number; Maximum number of children a village can have. Default: 10.
+max_children_number=20
+

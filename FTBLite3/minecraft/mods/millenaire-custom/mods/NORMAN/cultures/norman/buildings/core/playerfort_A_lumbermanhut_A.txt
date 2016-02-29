@@ -1,0 +1,5 @@
+type:subbuilding;priority:1200;native:Hutte de Bûcheron;around:4;startLevel:-1;orientation:2;length:32;width:32;male:ml_Lumberman;female:ml_Wife;shop:lumberman
+priority:700
+priority:350
+priority:50
+priority:10

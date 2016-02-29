@@ -1,0 +1,2 @@
+type:subbuilding;priority:5000;french:Elevage Bovin;around:0;startLevel:-1;orientation:1;male:ml_CattleFarmer;female:ml_Wife;width:100;length:100;shop:cattlefarm;tag:cattle
+priority:15

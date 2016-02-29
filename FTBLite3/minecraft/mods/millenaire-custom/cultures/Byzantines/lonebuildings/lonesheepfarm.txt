@@ -1,0 +1,8 @@
+name:Apomonomeno Boske Probaton
+weight:10000
+radius:10
+biome:forest
+biome:plains
+
+//starting buildings:
+centre:lonesheepfarm

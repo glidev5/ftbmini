@@ -1,0 +1,54 @@
+
+subarchives_A0=Archives
+subarmoury_A0=Armoury
+subbakery_A0=Bakery
+subcarpenterhouse_A0=Carpenter's House
+subcattlefarm_A0=Cattle Farm
+subchurch_A0=Church
+subchurch_A2=Church
+subfarmA_A0=Farm A
+subfarmB_A0=Farm B
+subforge_A0=Forge
+subgroveA_A0=Grove A
+subgroveB_A0=Grove B
+subguardhouse_A0=Guard House
+subinn_A0=Inn
+sublumbermanhut_A0=Lumberman's Hut
+submarket_A0=Market
+subpath_A0=Foot Path
+subpigfarm_A0=Pig Farm
+subpresbytery_A0=Priests House
+subquarryA_A0=Quarry A
+subquarryB_A0=Quarry B
+subsheepchickenfarm_A0=Sheep Farm
+subsmallhouse_A0=Small House
+subtavern_A0=Tavern
+subfountain_A0=Fountain
+subwell_A0=Well
+
+subwatchtower_A0=Watchtower
+subwatchtower_A1=Main wall A
+subwatchtower_A2=Main wall B
+subwatchtower_A3=Watchtower
+subwatchtower_A4=Watchtower
+subwatchtower_A5=Watchtower
+subwatchtower_A6=Main wall A
+subwatchtower_A7=Main wall B
+subwatchtower_A8=Main wall A
+subwatchtower_A9=Main wall B
+subwatchtower_A10=Watchtower
+
+town_A0=Manor
+town_A1=Plaza
+town_A2=Manor Crypt
+town_A3=Manor
+town_A4=Plaza
+town_A5=Manor
+town_A6=Manor
+town_A7=Plaza
+town_A8=Manor
+town_A9=Manor Crypt
+town_A10=Manor
+town_A11=Plaza
+town_A12=Plaza
+

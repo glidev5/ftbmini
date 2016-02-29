@@ -1,0 +1,2 @@
+priority:20000;type:subbuilding;priority:10;native:Bomos;around:4;startLevel:-1;orientation:3;tag:Praying;width:20;length:20
+priority:10

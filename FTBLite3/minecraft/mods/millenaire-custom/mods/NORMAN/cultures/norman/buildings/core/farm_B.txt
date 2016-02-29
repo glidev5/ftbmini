@@ -1,0 +1,9 @@
+max:2;priority:50;french:Ferme;around:4;startLevel:-1;orientation:2;male:ml_Farmer;female:ml_Wife;minDistance:50;width:17;length:14
+priority:40
+priority:30
+priority:25
+priority:20
+priority:15
+priority:10
+
+

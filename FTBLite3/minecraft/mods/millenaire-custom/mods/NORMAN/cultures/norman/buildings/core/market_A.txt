@@ -1,0 +1,6 @@
+max:1;priority:500;french:Marché;around:4;startLevel:-1;orientation:2;width:13;length:17;tag:market1
+priority:410;tag:market2
+priority:310;tag:market3
+priority:210
+priority:110
+priority:60

@@ -1,0 +1,24 @@
+native_name=Normandos Emporos
+gender=male
+familyNameList=merchant_norman_family_names
+firstNameList=merchant_norman_first_names
+tag=visitor
+tag=foreignmerchant
+chanceWeight=10
+
+texture=/mob/norman/ML_Merchant0.png
+texture=/mob/norman/ML_Merchant1.png
+texture=/mob/norman/ML_Merchant2.png
+
+goal=gorest
+goal=gopray
+goal=godrink
+goal=keepStall
+
+startingInv=timberframe_cross,64
+startingInv=timberframe_plain,64
+startingInv=NormanBroadsword,1
+startingInv=cidre,64
+
+baseAttackStrength=5
+experiencegiven=3

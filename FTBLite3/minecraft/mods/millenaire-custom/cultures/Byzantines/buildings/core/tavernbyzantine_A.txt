@@ -1,0 +1,6 @@
+native:Taberna;around:4;startLevel:-1;orientation:3;width:11;length:15;tag:Alembic;priority:3000
+startLevel:-1
+startLevel:-1;priority:100
+startLevel:-1
+startLevel:-1
+

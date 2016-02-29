@@ -1,0 +1,28 @@
+culture.Byzantines=Byzantine
+
+//Norman:
+villager.teenagerMale=Garáon
+villager.teenagerFemale=Fillette
+villager.boy_byzantine=Jeune homme
+villager.girl_byzantine=Jeune fille
+villager.farmiller_byzantine=Meunier
+villager.farmiller_wife_byzantine=Femme du meunier
+villager.wife_byzantine=Femme
+villager.miner_byzantine=Mineur
+villager.artisan_byzantine=Artisan
+villager.patriarch_byzantine=Patriarche
+villager.lumberman_byzantine=B˚cheron
+villager.shepherd_byzantine=Berger
+villager.shepherd_female_byzantine=BergËre
+villager.fisherman_byzantine=Pícheur
+villager.baron_byzantine=Baron
+villager.richwife_byzantine=Bourgeoise
+villager.merchant_norman=Marchand normand
+villager.merchant_hindi=Marchand hindi
+villager.merchant_mayan=Marchand maya
+villager.merchant_japanese=Marchand japonais
+villager.centurio_byzantine=Centurion
+villager.soldier_byzantine=Soldat
+villager.playersoldier_byzantine=Lègionnaire
+villager.smith_byzantine=Forgeron
+villager.merchant_byzantine=Marchand

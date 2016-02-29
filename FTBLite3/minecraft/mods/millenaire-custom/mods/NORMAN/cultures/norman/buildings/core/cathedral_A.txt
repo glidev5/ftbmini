@@ -1,0 +1,12 @@
+max:0;priority:3000;french:Cathedrale;around:5;startLevel:-6;orientation:3;length:17;width:22;signs:3,1,2,5,6,4,0,8,7;shop:townhall;male:abbot;male:monk;male:monk
+priority:2000
+priority:1500
+priority:1200
+priority:1000
+priority:800
+priority:600
+priority:500
+priority:400
+priority:300
+priority:200
+priority:100

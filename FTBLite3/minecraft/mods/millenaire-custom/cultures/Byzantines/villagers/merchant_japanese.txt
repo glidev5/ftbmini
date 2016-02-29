@@ -1,0 +1,21 @@
+native_name=Iapones Emporos
+gender=male
+familyNameList=merchant_japanese_family_names
+firstNameList=merchant_japanese_first_names
+tag=visitor
+tag=foreignmerchant
+chanceWeight=10
+
+texture=/mob/japanese/japanese_crafter0.png
+
+goal=gorest
+goal=gopray
+goal=godrink
+goal=keepStall
+
+startingInv=thached,64
+startingInv=paperwall,64
+startingInv=udon,64
+
+baseAttackStrength=5
+experiencegiven=3
